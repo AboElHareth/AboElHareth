@@ -1,20 +1,12 @@
 # 👋 Mohamed Ali  
 
-💼 Full Stack .NET Developer  
-📍 Building scalable and efficient web applications  
-
-## 🧠 Summary
 Full Stack .NET developer experienced in **ASP.NET Core** and **SQL Server**, focused on building clean, maintainable, and high-performance applications.  
 
 ## 🛠️ Tech Stack
 - **Backend:** ASP.NET Core, Web API, Entity Framework  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Database:** SQL Server  
-- **Tools:** Git, GitHub, Visual Studio, Postman  
-
-## 📌 Projects
-- 🔹 Full Stack Web App *(ASP.NET Core)*  
-- 🔹 Backend APIs – RESTful services with focus on performance  
+- **Tools:** Git, GitHub, Visual Studio, Postman    
 
 ## 🎯 Focus
 - Clean Architecture & Design Patterns  

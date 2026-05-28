@@ -6,15 +6,6 @@
 
 ---
 
-## 🧠 About Me
-
-- 🎓 Computer Science Student at **Fayoum University**
-- 💻 Full-Stack Developer focused on **ASP .NET Core**
-- 🚀 Trainee at **Digital Egypt Pioneers Initiative (DEPI)**
-- 📍 Cairo, Egypt
-
-###
-
 ## 🎯 Focus
 - Clean Architecture & Design Patterns  
 - Scalable Full Stack .NET Applications  
